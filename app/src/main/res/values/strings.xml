@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <string name="splash_welcome">Selamat Datang di ChatApp</string>
+
+    <string name="login_title">Login</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_register_prompt">Belum punya akun? Daftar sekarang</string>
+    <string name="login_success">Login berhasil!</string>
+    <string name="login_error">Email atau password salah</string>
+
+    <string name="register_title">Daftar Akun</string>
+    <string name="register_name">Nama Lengkap</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_confirm_password">Konfirmasi Password</string>
+    <string name="register_button">Daftar</string>
+    <string name="register_login_prompt">Sudah punya akun? Login</string>
+    <string name="register_success">Pendaftaran berhasil! Silakan login</string>
+    <string name="register_error">Pendaftaran gagal, silakan coba lagi</string>
+
+    <string name="chat_list_title">Daftar Chat</string>
+    <string name="chat_list_empty">Belum ada percakapan</string>
+    <string name="chat_search_hint">Cari percakapan...</string>
+    <string name="chat_last_message">Pesan terakhir</string>
+    <string name="chat_time">00:00</string>
+</resources>
